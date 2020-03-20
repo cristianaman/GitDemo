@@ -10,6 +10,12 @@ public class Parent {
 Methods m=new Methods();
 System.out.println(m.ValidateHeader());
 //Classobjects.methodname
+
+//the second guy 
+System.out.println(m.ValidateHeader());
+System.out.println(m.ValidateHeader());
+
+
 		
 	
 		
